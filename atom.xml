@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymangue.github.io</id>
     <title>ymangue</title>
-    <updated>2021-06-12T04:07:01.221Z</updated>
+    <updated>2021-07-02T13:45:18.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ymangue.github.io"/>
     <link rel="self" href="https://ymangue.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://ymangue.github.io/images/avatar.png</logo>
     <icon>https://ymangue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ymangue</rights>
+    <entry>
+        <title type="html"><![CDATA[Les mots chinois qui nous manquent en français (1)]]></title>
+        <id>https://ymangue.github.io/post/les-mots-chinois-qui-nous-manquent-en-francais-1/</id>
+        <link href="https://ymangue.github.io/post/les-mots-chinois-qui-nous-manquent-en-francais-1/">
+        </link>
+        <updated>2021-07-01T09:42:52.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ymangue.github.io/post-images/1625232958827.png" alt="" loading="lazy"></figure>
+<h2 id="yuanfen-缘分-ou-缘份-yuán-fèn"><strong>Yuanfen - 缘分 ou 缘份 (yuán fèn)</strong></h2>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ymangue.github.io/post-images/1625232958827.png" alt="" loading="lazy"></figure>
+<h2 id="yuanfen-缘分-ou-缘份-yuán-fèn"><strong>Yuanfen - 缘分 ou 缘份 (yuán fèn)</strong></h2>
+<!-- more -->
+<p><em>- La force qui nous amène à être ensemble. &quot;affinité prédestinée&quot;</em></p>
+<p>&quot;Yuan&quot; est un concept abstrait venu du bouddhisme, du taoïsme et de la culture chinoise. Il représente la connexion invisible qui relie les individus à d'autres personnes, évènements, objets, et êtres.<br>
+&quot;Yuanfen&quot; est souvent utilisé pour décrire le lien entre deux personnes nées pour s'aimer, un amour qui est prédéterminé.</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ymangue.github.io/post/hello-gridea/</id>
