@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymangue.github.io</id>
     <title>ymangue</title>
-    <updated>2021-07-17T04:23:44.801Z</updated>
+    <updated>2021-07-17T04:56:51.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ymangue.github.io"/>
     <link rel="self" href="https://ymangue.github.io/atom.xml"/>
@@ -71,7 +71,7 @@ Demain oublier ton visage.<br>
         <id>https://ymangue.github.io/post/les-mots-chinois-qui-nous-manquent-en-francais-1/</id>
         <link href="https://ymangue.github.io/post/les-mots-chinois-qui-nous-manquent-en-francais-1/">
         </link>
-        <updated>2021-06-30T03:42:52.000Z</updated>
+        <updated>2021-06-29T15:42:52.000Z</updated>
         <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ymangue.github.io/post-images/1625234474213.jpg" alt="" loading="lazy"></figure>
 <h2 id="yuanfen-缘分-ou-缘份-yuán-fèn"><strong>Yuanfen - 缘分 ou 缘份 (yuán fèn)</strong></h2>
 ]]></summary>
@@ -82,6 +82,8 @@ Demain oublier ton visage.<br>
 <p>&quot;Yuan&quot; est un concept abstrait venu du bouddhisme, du taoïsme et de la culture chinoise. Il représente la connexion invisible qui relie les individus à d'autres personnes, évènements, objets, et êtres.<br>
 &quot;Yuanfen&quot; est souvent utilisé pour décrire le lien entre deux personnes nées pour s'aimer, un amour qui est prédéterminé.</p>
 <!-- more -->
+<p>缘 ：来自佛教 、道教和中国文化的一个概念。缘（汉语拼音：yuán）是中国文化和佛家、道教的一个抽象概念，是人与人之间，人与事，人与物及人与其他存在之间无形的连结。（wikipédia)<br>
+缘份 ：常常在汉语里常被用来形容两个人命中注定要相遇 、相恋。</p>
 ]]></content>
     </entry>
 </feed>
