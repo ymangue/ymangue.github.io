@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymangue.github.io</id>
     <title>ymangue</title>
-    <updated>2021-07-17T04:59:28.587Z</updated>
+    <updated>2021-09-29T12:43:42.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ymangue.github.io"/>
     <link rel="self" href="https://ymangue.github.io/atom.xml"/>
-    <subtitle>Language Ocean</subtitle>
+    <subtitle>Language Ocean
+Translator Subtitler</subtitle>
     <logo>https://ymangue.github.io/images/avatar.png</logo>
     <icon>https://ymangue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ymangue</rights>
@@ -15,14 +16,16 @@
         <id>https://ymangue.github.io/post/chanson-chanson1-cai-hong-arc-en-ciel/</id>
         <link href="https://ymangue.github.io/post/chanson-chanson1-cai-hong-arc-en-ciel/">
         </link>
-        <updated>2021-07-15T12:37:50.000Z</updated>
+        <updated>2021-07-15T06:37:50.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>👉🏻Youtube
 </code></pre>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNVMtwEMmXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNVMtwEMmXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<pre><code>👉🏻Bilibili
+</code></pre>
+<iframe src="//player.bilibili.com/player.html?aid=89405527&bvid=BV1N7411E7Hd&cid=152699746&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></summary>
         <content type="html"><![CDATA[<pre><code>👉🏻Youtube
 </code></pre>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNVMtwEMmXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- more -->
 <pre><code>👉🏻Bilibili
 </code></pre>
 <iframe src="//player.bilibili.com/player.html?aid=89405527&bvid=BV1N7411E7Hd&cid=152699746&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -64,6 +67,7 @@ Demain oublier ton visage.<br>
 你需要逃离来获得自由自在<br>
 如果这是你的选择 那就走吧但是让我放下<br>
 来日忘记你的容颜</p>
+<hr>
 ]]></content>
     </entry>
     <entry>
